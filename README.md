@@ -42,7 +42,7 @@ Each dataset is analyzed using a consistent schema that captures:
 | Hate Speech Definition | Definition in paper | "We define..." |  |
 | Definition of Other Classes | Multi-class definitions | Offensive language |  |
 | Data Crawling Process | Collection method | Tweepy API |  |
-| Topics Focused 1 | Main topic of hate  | Racism |  |
+| Topics Focused | Main topic of hate  | Racism |  |
 |General Info | Additional notes | - |  |
 | Full Dataset Size | Total data collected | 20,000 |  |
 | Annotated Dataset Size | Labeled data size | 1,000 | Important |
