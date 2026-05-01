@@ -29,12 +29,7 @@ Each dataset is analyzed using a consistent schema that captures:
 | Year | Publication year | 2010 |  |
 | Dataset Name | Dataset name (if available) | Online Harassment Dataset |  |
 | Platform | Source platform | Twitter |  |
-| Language 1 | Primary language | English | Add more if needed |
-| Language 2 | Secondary language | German | Multilingual datasets |
-| Language Used in Country 1 | Country of language 1 | English → USA |  |
-| Language Used in Country 2 | Country of language 2 | German → Germany |  |
-| Language Used Worldwide | Global usage | Yes | Usually English |
-| Continent | Region of language | Europe | Non-English only |
+| Language | Language of dataset| English |  |
 | Dataset Available | Availability | Yes |  |
 | Dataset Available At | Dataset link | URL |  |
 | Multimodal | Data type | Text / Text+Image | Yes/No |
@@ -47,10 +42,8 @@ Each dataset is analyzed using a consistent schema that captures:
 | Hate Speech Definition | Definition in paper | "We define..." |  |
 | Definition of Other Classes | Multi-class definitions | Offensive language |  |
 | Data Crawling Process | Collection method | Tweepy API |  |
-| Topics Focused 1 | Main topic | Racism |  |
-| Topics Focused 2 | Secondary topic | Sexism |  |
-| Topics Focused 3 | Additional topic | Refugees | Extendable |
-| General Info | Additional notes | - |  |
+| Topics Focused 1 | Main topic of hate  | Racism |  |
+|General Info | Additional notes | - |  |
 | Full Dataset Size | Total data collected | 20,000 |  |
 | Annotated Dataset Size | Labeled data size | 1,000 | Important |
 | Amount of Hate Words | Hate lexicon size | 345 (German) |  |
@@ -100,3 +93,6 @@ Each dataset is analyzed using a consistent schema that captures:
 ---
 
 ## 📁 Repository Structure
+### . Papers
+- Provides the list of papers used in the study
+
