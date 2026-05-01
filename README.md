@@ -93,6 +93,6 @@ Each dataset is analyzed using a consistent schema that captures:
 ---
 
 ## 📁 Repository Structure
-### . Papers
+### Papers
 - Provides the list of papers used in the study
 
