@@ -96,3 +96,15 @@ Each dataset is analyzed using a consistent schema that captures:
 ### Papers
 - Provides the list of papers used in the study
 
+
+Please cite the [Journal paper]():
+```
+@InProceedings{shahi2025defining,
+  author="Shahi, Gautam Kishore and Majchrzak, Tim A",
+  title="Defining, Understanding, and Detecting Online Toxicity: Challenges and Machine Learning Approaches",
+  booktitle="Web Information Systems and Technologies",
+  year="2026",
+  publisher="Springer Nature Switzerland",
+  address="Cham"
+}
+
